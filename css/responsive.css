@@ -1,0 +1,2388 @@
+@media (max-width: 1500px){
+    .btn-cv-section1{
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%,-55%);
+        padding: 1.5rem 3rem;
+        font-size: 5.5rem;
+    }
+    .sub-title{
+        position: absolute;
+        top: 80%;
+        left: 50%;
+        transform: translate(-50%,-80%);  
+    }
+    .merit{
+        height: 480px;
+        margin-bottom: 30rem;
+      }
+      .btn-cv{
+        font-size: 4.5rem;
+    }
+    .btn-tel{
+        font-size: 4.5rem; 
+        padding: 1rem 10rem;
+    }
+    .merit-title{
+        font-size: 4rem;
+    }
+    .merit-text{
+        font-size: 2.3rem;
+    }
+    .pic-usagetimeexample-section6{
+        width: 70%;
+    }
+
+}
+
+@media (max-width: 1200px){
+    .main-title{
+        font-size: 4rem;
+    }
+    .pricedown-badge{
+        width: 200px;
+        height: 200px;
+    }
+    .pricedown{
+        position: absolute;
+         font-size: 1.8rem;
+     }
+     .btn-cv-section1{
+        font-size: 4.5rem;
+    }
+    #section3{
+        padding-top: 1rem;
+    }
+    .merit-title{
+        font-size: 3.5rem;
+    }
+    .radio-area{
+        margin-top: 5%;
+    }
+    .footer-left{
+       width: 40%;
+    }
+}
+
+@media (min-width:900px) and (max-width: 1025px){
+    .fastview{
+        height: 100%;
+    }
+    .main-title{
+        font-size: 3rem;
+
+    }
+    .sub-title{
+        position: absolute;
+        top: 90%;
+        left: 50%;
+        transform: translate(-50%,-90%);
+        font-size: 2.5rem;
+    }
+    .btn-cv-section1{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-60%);
+        font-size: 3.2rem;
+    }
+    #section2{
+        height: 700px;
+    }
+    .big-fontsize-section2{
+        font-size: 5rem;
+    }
+    .problem-inner{
+        flex-wrap: wrap;
+        text-align: center;
+        width: calc(33% - 1rem);
+        height: 100%;
+        margin: 0rem 1rem;
+    }
+    .problem-name{
+        font-size: 2.2rem;
+    }
+    .btn-cv{
+        font-size: 4rem;
+    }
+    .btn-tel{
+        font-size: 4rem; 
+        padding: 1rem 10rem;
+    }
+    .merit-title{
+        font-size: 3rem;
+    }
+    .merit-text{
+        font-size: 2rem;
+    }
+    .quote{
+        position: absolute;
+        bottom: -15rem;
+        left: 0;
+        transform: translate(-0%,-25%);
+        width: 45%;
+        box-shadow: #555 0px 1px 5px;
+    }
+    .merit{
+        position: relative;
+        height: 450px;
+      }
+      .quote{
+        bottom: -15rem;
+    }
+    .construction{
+        bottom: -10rem;
+    }
+    .after-follow{
+        bottom: -15rem;
+    }
+    .title-examle-section7{
+        font-size: 2rem;
+    }
+    .voice-example-section7{
+        font-size: 1.6rem;
+    }
+    .btn-scrolltop{
+        width: 20%;
+    }
+    .footer-left{
+        width: 45%;
+     }
+}
+
+@media (orientation:landscape) and (max-width:1025px){
+    .merit{
+        height: 450px;
+      }
+      
+      .btn-scrolltop{
+        width: 20%;
+    }
+      .footer-left{
+        width: 45%;
+     }
+    
+}
+
+@media (max-width: 900px){
+    .big-fontsize-section1{
+        font-size: 5rem;
+    }
+    .big-fontsize-section2{
+        font-size: 4rem;
+    }
+    .big-fontsize-section6{
+        font-size: 3rem;
+    }
+    .fastview{
+        height: 100%;
+    }
+    .header-contact{
+        font-size: 1.6rem;
+    }
+    .header-btn-contact{
+        font-size: 1.8rem;
+    }
+    .main-title{
+       font-size: 2.5rem;
+    }  
+    .btn-cv-section1{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-60%);
+        font-size: 3rem;
+    }
+    .sub-title{
+        position: absolute;
+        top: 90%;
+        left: 50%;
+        transform: translate(-50%,-90%);
+        font-size: 1.8rem;
+    }
+  
+    .pricedown-badge{
+        width: 150px;
+        height: 150px;
+    }
+    .pricedown{
+        position: absolute;
+         font-size: 1.4rem;
+     }
+
+     #section2{
+        height: 580px;
+    }
+     .section-title{
+        font-size: 2.5rem;
+    }
+    .title-section2-right{
+        font-size: 1.8rem;
+    }
+    .image-name{
+        font-size: 2rem;
+    }
+    .text-in-blackout{
+        font-size: 2.5rem;
+    }
+
+    .problem-inner{
+        flex-wrap: wrap;
+        text-align: center;
+        width: calc(33% - 1rem);
+        height: 100%;
+        margin: 0rem 1rem;
+    }
+     .problem-name{
+        font-size: 1.6rem;
+    }
+    .problem-description{
+        font-size: 1.5rem;
+    }
+    .inner-title{
+        font-size: 1.8rem;
+    }
+    .text-speechbubble-section4{
+        font-size: 1.8rem;
+      }
+    .title-inner-section4{
+        font-size: 1.8rem;
+    }
+    .title-box-home-battery{
+        font-size: 1.8rem;
+    }
+    .title-box-home-solar-panel{
+        font-size: 1.8rem;
+    }
+    .bottom-text-section4{
+        font-size: 1.8rem;
+    }
+    .title-cv-area{
+        font-size: 2.5rem;
+    }
+    .text-tel{
+        font-size: 2.5rem;
+    }
+    .btn-cv{
+        font-size: 3rem;
+    }
+    .btn-tel{
+        font-size: 3rem;
+        padding: 1rem 9rem;
+    }
+    .text-speechbubble-section5{
+        font-size: 2.5rem;
+      }
+
+      .merit{
+        height: 390px;
+      }
+      .merit-title{
+        font-size: 2.5rem;
+    }
+    .merit-text{
+        font-size: 1.6rem;
+    }
+    .quote{
+        top: 60%;
+        width: 50%;
+   
+    }
+    .construction{
+        top: 60%;
+        width: 50%;
+    }
+    .after-follow{
+        top: 60%;
+        width: 50%;
+    }
+
+    .pic-usagetimeexample-section6{
+        width: 80%;
+    }
+    .text-speechbubble-section6{
+        font-size: 2.5rem;
+      }
+      .title-example1-section6{
+        font-size: 2.3rem;
+    }
+    .title-example2-section6{
+        font-size: 2.3rem;
+    }
+    .example1-graph{
+        width: 90%;
+    }
+    .example2-graph{
+        width: 90%;
+    }
+    .text-example1{
+        font-size: 1.8rem;
+    }
+    .text-example2{
+        font-size: 1.8rem;
+    }
+
+    .example1-home-solar-panel{
+        width: 40%;
+        margin-right: 2rem;
+    }
+    .example1-home-battery{
+        width: 40%;
+        margin-left: 2rem;
+    }
+    .example2-home-solar-panel{
+        width: 40%;
+        margin-right: 2rem;
+    }
+    .example2-home-battery{
+        width: 40%;
+        margin-left: 2rem;
+    }
+      .title-examle-section7{
+        font-size: 1.8rem;
+    }
+    .voice-example-section7{
+        font-size: 1.6rem;
+    }
+    .text-tv{
+        font-size: 2.5rem;
+    }
+    .text-cm{
+        font-size: 2.5rem;
+    }
+    .flow-title{
+        font-size: 1.8rem;
+        color: black;
+    }
+    .flow p{
+        font-size: 1.6rem;
+    }
+
+    .contact{
+        height: 1300px;
+    }
+
+    .btn-scrolltop{
+        width: 20%;
+    }
+
+    .footer-left{
+        width: 50%;
+     }
+    .company-name-footer{
+        font-size: 2rem;
+        font-weight: bold;
+        color: #ffffff;
+    }
+    .access-footer{
+        font-size: 1.4rem;
+        color: #ffffff;
+        text-align: left;
+        margin-top: 5rem;
+    }
+    .text-footer-contact{
+        font-size: 1.4rem;
+        color: #ffffff;
+        list-style: none;
+    }
+    .copyright{
+        color: #ffffff;
+        font-size: 1.2rem;
+    }
+}
+
+@media (orientation:landscape) and (max-width:900px){
+    .underline{
+        text-decoration: underline #E13838 4px;
+    }
+    .big-fontsize-section2{
+        font-size: 4rem;
+    }
+    .big-fontsize-section6{
+        font-size: 3rem;
+    }
+    .fastview{
+        height: calc(100vh*1.5);
+    }
+    header{
+        height: 65px;
+    }
+    .icon{
+        width: 6%;
+        }
+    .header-contact{
+        font-size: 1.6rem;
+    }
+    .header-btn-contact{
+        font-size: 1.8rem;
+    }
+    .main-title{
+        font-size: 3rem;
+    }
+    .sub-title{
+        font-size: 2rem;
+    }
+    .btn-cv-section1{
+        position: absolute;
+        top: 55%;
+        left: 50%;
+        transform: translate(-50%,-55%);
+        padding: 1rem 3rem;
+        border-radius: 100px;
+        font-size: 3rem;
+    }
+    .pricedown-badge{
+        width: 150px;
+        height: 150px;
+    }
+    .pricedown{
+        position: absolute;
+         font-size: 1.4rem;
+     }
+
+     #section2{
+        height: 600px;
+    }
+     .section-title{
+        font-size: 2.5rem;
+    }
+    .title-section2-right{
+        font-size: 1.8rem;
+    }
+    .image-name{
+        font-size: 2rem;
+    }
+    .text-in-blackout{
+        font-size: 2.5rem;
+    }
+
+    .problem-inner{
+        flex-wrap: wrap;
+        text-align: center;
+        width: calc(33% - 1rem);
+        height: 100%;
+        margin: 0rem 1rem;
+    }
+     .problem-name{
+        font-size: 1.6rem;
+    }
+    .problem-description{
+        font-size: 1.4rem;
+    }
+    .inner-title{
+        font-size: 1.8rem;
+    }
+    .text-speechbubble-section4{
+        font-size: 1.8rem;
+      }
+    .title-inner-section4{
+        font-size: 1.8rem;
+    }
+    .box-cross{
+        width: 120px;
+        height: 120px;
+    }
+    .title-box-home-battery{
+        font-size: 1.8rem;
+    }
+    .title-box-home-solar-panel{
+        font-size: 1.8rem;
+    }
+    .bottom-text-section4{
+        font-size: 1.8rem;
+    }
+    .title-cv-area{
+        font-size: 2.5rem;
+    }
+    .text-tel{
+        font-size: 2.5rem;
+    }
+    .btn-cv{
+        font-size: 3.2rem;
+    }
+    .btn-tel{
+        font-size: 3.2rem;
+    }
+    .text-speechbubble-section5{
+        font-size: 2.5rem;
+      }
+      .merit{
+        height: 400px;
+    }
+      .merit-title{
+        font-size: 2.5rem;
+    }
+    .merit-text{
+        font-size: 1.6rem;
+    }
+    .quote{
+        top: 60%;
+    }
+    .construction{
+        top: 60%;
+    }
+    .after-follow{
+        top: 60%;
+    }
+    .text-speechbubble-section6{
+        font-size: 2.5rem;
+      }
+      .title-examle-section7{
+        font-size: 1.8rem;
+    }
+    .voice-example-section7{
+        font-size: 1.6rem;
+    }
+    .text-tv{
+        font-size: 2.5rem;
+    }
+    .text-cm{
+        font-size: 2.5rem;
+    }
+    .flow-title{
+        font-size: 1.8rem;
+        color: black;
+    }
+    .flow p{
+        font-size: 1.6rem;
+    }
+    .radio-area{
+        margin-top: 8%;
+        margin-bottom: 8%;
+    }
+    .company-name-footer{
+        font-size: 2rem;
+        font-weight: bold;
+        color: #ffffff;
+    }
+    .access-footer{
+        font-size: 1.4rem;
+        color: #ffffff;
+        text-align: left;
+        margin-top: 5rem;
+    }
+    .text-footer-contact{
+        font-size: 1.4rem;
+        color: #ffffff;
+        list-style: none;
+    }
+    .copyright{
+        color: #ffffff;
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 769px){
+    .underline{
+        text-decoration: underline #E13838 3px;
+    }
+    .btn-cv-section1{
+        font-size: 2.5rem;
+    }
+    .title-example1-section6{
+        font-size: 2.2rem;
+    }
+    .title-example2-section6{
+        font-size: 2.2rem;
+    }
+    .text-example1{
+        font-size: 1.7rem;
+    }
+    .text-example2{
+        font-size: 1.7rem;
+    }
+    .btn-cv{
+        font-size: 3rem;
+    }
+    .btn-tel{
+        font-size: 3rem;
+    }
+    .voice-example-section7{
+        font-size: 1.4rem;
+    }
+}
+
+@media (orientation:landscape) and (max-width: 769px){
+    .big-fontsize-section2{
+        font-size: 3rem;
+    }
+    .big-fontsize-section6{
+        font-size: 2.5rem;
+    }
+    .fastview{
+        height: 100vh;
+    }
+    .header-contact{
+        font-size: 1.4rem;
+    }
+    .header-btn-contact{
+        font-size: 1.4rem;
+    }
+    .main-title{
+        font-size: 2.5rem;
+    }
+    .sub-title{
+        font-size: 2rem;
+    }
+    .btn-cv-section1{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-60%);
+        padding: 1rem 3rem;
+        border-radius: 100px;
+        font-size: 2.5rem;
+    }
+    .pricedown-badge{
+        width: 140px;
+        height: 140px;
+    }
+    .pricedown{
+        position: absolute;
+         font-size: 1.2rem;
+     }
+     .section-title{
+        font-size: 2rem;
+    }
+    .title-section2-right{
+        font-size: 1.8rem;
+    }
+    .image-name{
+        font-size: 1.8rem;
+    }
+    .text-in-blackout{
+        font-size: 2rem;
+    }
+    .problem-name{
+        font-size: 1.3rem;
+    }
+    .problem-description{
+        font-size: 1.2rem;
+    }
+    .inner-title{
+        font-size: 1.8rem;
+    }
+    .text-speechbubble-section4{
+        font-size: 2rem;
+      }
+    .title-box-home-battery{
+        font-size: 1.6rem;
+    }
+    .title-box-home-solar-panel{
+        font-size: 1.6rem;
+    }
+    .title-cv-area{
+        font-size: 2rem;
+    }
+    .text-tel{
+        font-size: 2rem;
+    }
+    .btn-cv{
+        font-size: 2.5rem;
+    }
+    .btn-tel{
+        font-size: 2.5rem;
+    }
+    .text-speechbubble-section5{
+        font-size: 2rem;
+      }
+      .merit-title{
+        font-size: 2rem;
+    }
+    .merit-text{
+        font-size: 1.2rem;
+    }
+    .text-speechbubble-section6{
+        font-size: 2rem;
+      }
+      .merit{
+        height: 300px;
+      }
+      .title-example1-section6{
+        font-size: 1.8rem;
+        border-radius: 15px;
+    }
+    .title-example2-section6{
+        font-size: 1.8rem;
+        border-radius: 15px;
+    }
+    .text-example1{
+        font-size: 1.6rem;
+    }
+    .text-example2{
+        font-size: 1.6rem;
+    }
+    .text-speechbubble-section6{
+        font-size: 2rem;
+      }
+      .title-examle-section7{
+        font-size: 1.8rem;
+    }
+    .voice-example-section7{
+        font-size: 1.3rem;
+    }
+    .text-tv{
+        font-size: 2rem;
+    }
+    .text-cm{
+        font-size: 2rem;
+    }   .flow-title{
+        font-size: 1.8rem;
+        color: black;
+    }
+    .flow p{
+        font-size: 1.4rem;
+    }
+    .footer-left{
+        width: 55%;
+     }
+
+}
+
+@media (max-width: 700px){
+    .big-fontsize-section2{
+        font-size: 2.5rem;
+    }
+    .big-fontsize-section6{
+        font-size: 2.3rem;
+    }
+    .header-contact{
+        font-size: 1.3rem;
+    }
+    .header-btn-contact{
+        font-size: 1.3rem;
+    }
+    .main-title{
+        font-size: 2rem;
+    }
+    .sub-title{
+        font-size: 1.8rem;
+    }
+    .btn-cv-section1{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-60%);
+        padding: 1rem 3rem;
+        border-radius: 100px;
+        font-size: 2.3rem;
+    }
+    .pricedown-badge{
+        width: 130px;
+        height: 130px;
+    }
+    .pricedown{
+         font-size: 1.1rem;
+     }
+     #section2{
+        height: 580px;
+    }
+     .section-title{
+        font-size: 1.8rem;
+    }
+    .title-section2-right{
+        font-size: 1.6rem;
+    }
+  
+    .image-name{
+        font-size: 1.6rem;
+    }
+    .text-in-blackout{
+        font-size: 1.6rem;
+    }
+    .problem-inner{
+        flex-wrap: wrap;
+        text-align: center;
+        width: calc(33% - 1rem);
+        height: 100%;
+        margin: 0rem 1rem;
+    }
+    .problem-name{
+        font-size: 1.3rem;
+    }
+    .problem-description{
+        font-size: 1.2rem;
+    }
+    .inner-title{
+        font-size: 1.6rem;
+    }
+    .title-inner-section4{
+        font-size: 1.6rem;
+    }
+    .text-speechbubble-section4{
+        font-size: 1.8rem;
+      }
+    .title-box-home-battery{
+        font-size: 1.4rem;
+    }
+    .title-box-home-solar-panel{
+        font-size: 1.4rem;
+    }
+    .bottom-text-section4{
+        font-size: 1.6rem;
+    }
+    .box-cross{
+        position: relative;
+        width: 100px;
+        height: 100px;
+        border: 1px solid black ;
+        border-radius: 50%;
+    }
+    .title-cv-area{
+        font-size: 1.8rem;
+    }
+    .text-tel{
+        font-size: 1.8rem;
+    }
+    #cv-area{
+        height: 500px;
+    }
+    .btn-cv{
+        font-size: 2.5rem;
+    }
+    .btn-tel{
+        font-size: 2.5rem;
+        padding: 1rem 8rem;
+    }
+    .text-speechbubble-section5{
+        font-size: 1.8rem;
+      }
+       .merit{
+        height: 280px;
+      }
+      .merit-title{
+        font-size: 1.8rem;
+    }
+    .merit-text{
+        font-size: 1.2rem;
+    }
+    .text-speechbubble-section6{
+        font-size: 1.8rem;
+      }
+      .title-example1-section6{
+        font-size: 1.6rem;
+    }
+    .title-example2-section6{
+        font-size: 1.6rem;
+    }
+    .text-example1{
+        font-size: 1.4rem;
+    }
+    .text-example2{
+        font-size: 1.4rem;
+    }
+    .text-speechbubble-section6{
+        font-size: 1.8rem;
+      }
+      .title-examle-section7{
+        font-size: 1.6rem;
+    }
+    .voice-example-section7{
+        font-size: 1.2rem;
+    }
+    .text-tv{
+        font-size: 1.8rem;
+    }
+    .text-cm{
+        font-size: 1.8rem;
+    }   .flow-title{
+        font-size: 1.6rem;
+    }
+    .flow p{
+        font-size: 1.3rem;
+    }
+    .company-name-footer{
+        font-size: 1.8rem;
+    }
+    .access-footer{
+        font-size: 1.2rem;
+    }
+    .text-footer-contact{
+        font-size: 1.2rem;
+    }
+    .copyright{
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 599px){
+    .big-fontsize-section2{
+        font-size: 2rem;
+    }
+    .big-fontsize-section6{
+        font-size: 1.9rem;
+    }
+    header{
+        height: 50px;
+    }
+    .icon{
+        width: 7%;
+        }
+        .header-contact{
+            font-size: 1.2rem;
+        }
+        .header-btn-contact{
+            font-size: 1.2rem;
+        }
+        .main-title{
+            font-size: 1.8rem;
+        }
+        .sub-title{
+            font-size: 1.6rem;
+        }
+        .btn-cv-section1{
+            position: absolute;
+            top: 60%;
+            left: 50%;
+            transform: translate(-50%,-60%);
+            padding: 1rem 3rem;
+            border-radius: 100px;
+            font-size: 1.8rem;
+        }
+        .pricedown-badge{
+            width: 120px;
+            height: 120px;
+        }
+        .pricedown{
+             font-size: 1rem;
+         }
+         #section2{
+            height: 500px;
+        }
+         .section-title{
+            font-size: 1.6rem;
+        }
+        .title-section2-right{
+            font-size: 1.5rem;
+        }
+        .image-name{
+            font-size: 1.5rem;
+        }
+        .text-in-blackout{
+            font-size: 1.5rem;
+        }
+        .problem-inner{
+            flex-wrap: wrap;
+            text-align: center;
+            width: calc(33% - 1rem);
+            height: 100%;
+            margin: 0rem 1rem;
+        }
+        .problem-name{
+            font-size: 1.3rem;
+        }
+        .problem-description{
+            font-size: 1.2rem;
+        }
+        .inner-title{
+            font-size: 1.5rem;
+        }
+        .title-inner-section4{
+            font-size: 1.5rem;
+        }
+        .speechbubble-section4{
+            padding: 2rem 6rem;
+        }
+        .speechbubble-section4:before {
+            margin-left: -3rem;
+            border: 30px solid transparent;
+            border-top: 40px solid #FFFF04;
+          }
+        .text-speechbubble-section4{
+            font-size: 1.6rem;
+          }
+        .title-box-home-battery{
+            font-size: 1.2rem;
+        }
+        .title-box-home-solar-panel{
+            font-size: 1.2rem;
+        }
+        .bottom-text-section4{
+            font-size: 1.5rem;
+        }
+        .inner-section4{
+            width: 90%;
+          
+          }
+        .box-cross{
+            width: 60px;
+            height: 60px;
+        }
+
+        #cv-area{
+            height: 400px;
+        }
+        .title-cv-area{
+            font-size: 1.6rem;
+        }
+        .text-tel{
+            font-size: 1.6rem;
+        }
+        .btn-cv{
+            font-size: 2rem;
+        }
+        .btn-tel{
+            font-size: 2rem;
+            padding: 1rem 7rem;
+        }
+        .speechbubble-section5:before {
+            border: 60px solid transparent;
+            border-top: 80px solid ;
+          }
+        .text-speechbubble-section5{
+            font-size: 1.8rem;
+          }
+           .merit{
+            height: 270px;
+            margin-bottom: 20rem;
+          }
+          .merit-number{
+            position: absolute;
+            top: -5rem;
+            left: 0;
+            transform: translate(-0%,-5%);
+            font-size: 4rem;
+        }
+          .merit-title{
+            font-size: 1.6rem;
+            margin: 3rem 0rem;
+        }
+        .merit-text{
+            font-size: 1.1rem;
+        }
+        .quote{
+            width: 50%;
+        }
+        .construction{
+            width: 50%;
+        }
+        .after-follow{
+            width: 50%;
+        }
+
+        #section6{
+            padding-bottom: 15rem;
+        }
+        .speechbubble-section6{
+            height: 12rem;
+          }
+        .speechbubble-section6:before {
+            border: 60px solid transparent;
+            border-top: 80px solid ;
+          }
+        .text-speechbubble-section6{
+            font-size: 1.8rem;
+          }
+          .title-example1-section6{
+            font-size: 1.5rem;
+        }
+        .title-example2-section6{
+            font-size: 1.5rem;
+        }
+        .text-example1{
+            font-size: 1.3rem;
+        }
+        .text-example2{
+            font-size: 1.3rem;
+        }
+        .text-speechbubble-section6{
+            font-size: 1.6rem;
+          }
+          .title-examle-section7{
+            font-size: 1.5rem;
+        }
+        .voice-example-section7{
+            font-size: 1.2rem;
+        }
+        .text-tv{
+            font-size: 1.6rem;
+        }
+        .text-cm{
+            font-size: 1.6rem;
+        } 
+        #youtube{
+            width: auto;
+            height: auto;
+        }
+
+        .flow-number{
+            width: 70px;
+            height: 70px;
+        }
+        .flow-title{
+            font-size: 1.5rem;
+        }
+        .flow p{
+            font-size: 1.3rem;
+        }
+
+        .contact{
+            position: relative;
+            height: 1000px;
+        }
+        #userName,#email,#tell,#address{
+            height: 40px;
+        }
+        #content{
+            height: 300px; 
+        }
+        .form-btn{
+            width: 70%;
+            height: 60px;
+        }
+
+        .btn-top-scroll-area{
+            height: 350px;
+        }
+
+        .company-name-footer{
+            font-size: 1.8rem;
+        }
+        .access-footer{
+            font-size: 1.1rem;
+        }
+        .footer-contact{
+            margin-left: 5rem;
+        }
+        .text-footer-contact{
+            font-size: 1.1rem;
+        }
+        .copyright{
+            font-size: 1rem;
+        }
+} 
+
+@media (max-width: 481px){
+    .big-fontsize-section1{
+        font-size: 4rem;
+    }
+    .big-fontsize-section2{
+        font-size: 2rem;
+    }
+    .big-fontsize-section6{
+        font-size: 1.9rem;
+    }
+    header{
+        height: 45px;
+    }
+    .icon{
+        width: 7%;
+        }
+        .header-contact{
+            font-size: 1rem;
+        }
+        .header-btn-contact{
+            font-size: 1rem;
+            font-weight: bold;
+            margin-left: 1rem;
+            padding: 1rem 2rem;
+        }
+        .main-title{
+            font-size: 1.6rem;
+        }
+        .sub-title{
+            font-size: 1.4rem;
+        }
+        .btn-cv-section1{
+            position: absolute;
+            top: 60%;
+            left: 50%;
+            transform: translate(-50%,-60%);
+            padding: 1rem 3rem;
+            border-radius: 100px;
+            font-size: 1.6rem;
+        }
+        .pricedown-badge{
+            width: 110px;
+            height: 110px;
+        }
+        .pricedown{
+             font-size: 1rem;
+         }
+         #section2{
+            height: 480px;
+        }
+        .question{
+            top: 5%;
+            right: 10%;
+            transform: translate(-10%,-5%); 
+            width: 10%;
+            transform: rotate(30deg);
+        }
+         .section-title{
+            font-size: 1.5rem;
+        }
+        .title-section2-right{
+            font-size: 1.3rem;
+        }
+        .image-name{
+            font-size: 1.4rem;
+        }
+        .text-in-blackout{
+            font-size: 1rem;
+        }
+
+        .problem-inner{
+            flex-wrap: wrap;
+            text-align: center;
+            width: calc(34% - 1rem);
+            height: 100%;
+            margin: 0rem 1rem;
+        }
+        .problem-name{
+            font-size: 1.1rem;
+        }
+        .problem-description{
+            font-size: 1rem;
+        }
+
+        .lightup2{
+            position: absolute;
+            top: -8rem;
+            right: 3rem;
+            transform: translate(-3%,-8%);
+            width: 15%;
+            transform: rotate(30deg);
+        }
+        .pic-triangle-section4{
+            width: 12%;
+            margin-bottom: 5rem;
+        }
+        .inner-title{
+            font-size: 1.4rem;
+        }
+        .title-inner-section4{
+            font-size: 1.4rem;
+        }
+        .speechbubble-section4{
+            padding: 2rem 5rem;
+        }
+        .speechbubble-section4:before {
+            margin-left: -3rem;
+            border: 30px solid transparent;
+            border-top: 40px solid #FFFF04;
+          }
+        .text-speechbubble-section4{
+            font-size: 1.4rem;
+          }
+        .title-box-home-battery{
+            font-size: 1.2rem;
+        }
+        .title-box-home-solar-panel{
+            font-size: 1.2rem;
+        }
+        .bottom-text-section4{
+            font-size: 1.3rem;
+        }
+        .inner-section4{
+            width: 90%;
+          
+          }
+        .box-cross{
+            width: 60px;
+            height: 60px;
+        }
+
+        #cv-area{
+            height: 380px;
+        }
+        .title-cv-area{
+            font-size: 1.5rem;
+        }
+        .text-tel{
+            font-size: 1.5rem;
+        }
+        .btn-cv{
+            font-size: 1.8rem;
+            padding: 1rem 3rem;
+        }
+        .btn-tel{
+            font-size: 1.8rem;
+            padding: 1rem 5rem;
+        }
+
+        
+.speechbubble-section5{
+    height: 7rem;
+  }
+        .speechbubble-section5:before {
+            border: 50px solid transparent;
+            border-top: 70px solid ;
+          }
+        .text-speechbubble-section5{
+            font-size: 1.8rem;
+          }
+           .merit{
+            height: 265px;
+            margin-bottom: 10rem;
+          }
+          .merit-number{
+            position: absolute;
+            top: -5rem;
+            left: 0;
+            transform: translate(-0%,-5%);
+            font-size: 4rem;
+        }
+          .merit-title{
+            font-size: 1.6rem;
+            margin: 3rem 0rem;
+        }
+        .merit-text{
+            font-size: 1.1rem;
+        }
+        .quote{
+            width: 50%;
+        }
+        .construction{
+            width: 50%;
+        }
+        .after-follow{
+            width: 50%;
+        }
+        .speechbubble-section6{
+            height: 8rem;
+          }
+        .speechbubble-section6:before {
+            border: 60px solid transparent;
+            border-top: 80px solid ;
+          }
+        .text-speechbubble-section6{
+            font-size: 1.8rem;
+          }
+          .title-example1-section6{
+            font-size: 1.5rem;
+        }
+        .title-example2-section6{
+            font-size: 1.5rem;
+        }
+        .text-example1{
+            font-size: 1.3rem;
+        }
+        .text-example2{
+            font-size: 1.3rem;
+        }
+        .text-speechbubble-section6{
+            font-size: 1.6rem;
+          }
+          .title-examle-section7{
+            font-size: 1.5rem;
+        }
+
+        .pic-voice{
+            position: absolute;
+            top: 0%;
+            left: 0%;
+            transform: translate(-0%,-0%);
+            width: 15%;
+        }
+        .voice-example-section7{
+            font-size: 1.2rem;
+        }
+        .text-tv{
+            font-size: 1.6rem;
+        }
+        .text-cm{
+            font-size: 1.6rem;
+        } 
+        #youtube{
+            width: auto;
+            height: auto;
+        }
+
+        .flow-number{
+            width: 60px;
+            height: 60px;
+        }
+        .flow-title{
+            font-size: 1.5rem;
+        }
+        .flow p{
+            font-size: 1.3rem;
+        }
+
+        .contact-mark{
+            position: absolute;
+            top: 0%;
+            right: 10%;
+            transform: translate(-10%,-0%);
+            width: 12%;
+            transform: rotate(20deg);
+        }
+        .contact{
+            position: relative;
+            height: 1000px;
+        }
+        #userName,#email,#tell,#address{
+            height: 40px;
+        }
+        #content{
+            height: 300px; 
+        }
+
+        .form-btn{
+            width: 70%;
+            height: 60px;
+        }
+        #radio1{
+            transform: scale(1.5);
+        }
+        .text-radio1{
+            font-size: 1.3rem;
+        }
+        #radio2{
+            transform: scale(1.5);
+        }
+        .text-radio1{
+            font-size: 1.3rem;
+        }
+
+        .btn-top-scroll-area{
+            height: 350px;
+        }
+
+        .footer-left{
+            width: 65%;
+         }
+        .company-name-footer{
+            font-size: 1.8rem;
+        }
+        .access-footer{
+            font-size: 1.1rem;
+        }
+        .footer-contact{
+            margin-left: 5rem;
+        }
+        .text-footer-contact{
+            font-size: 1.1rem;
+        }
+        .copyright{
+            font-size: 1rem;
+        }
+}
+
+@media (max-width: 416px){
+    .big-fontsize-section2{
+        font-size: 4rem;
+    }
+    .br-sp{
+        display:block;
+    }
+    .br-dp{
+        display: none;
+    }
+    .fastview{
+        position: relative;
+        height: 100vh;
+    }
+    .icon{
+        position: absolute;
+        top: 50%;
+        left: 0%;
+        transform: translate(-0%,-50%);
+        width: 10%;
+        }
+    header{
+       position: absolute;
+       top: 0;
+       left: 0;
+       transform: translate(-0%,-0%);
+       z-index: 100;
+    }
+    .header-inner{
+        display:none;
+    }
+    #section1{
+        position: relative;
+        width: 100%;
+        height: 100%;
+    }
+    .keyvisual{
+       display: none; 
+    }
+    .keyvisual-sp{
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+    
+.main-title{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-30%);
+    text-align: center;
+    font-size: 2.5rem;
+    width: 100%;
+    line-height: 4rem;
+
+}
+.btn-cv-section1{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-55%);
+    padding: 1.5rem 5rem;
+    border-radius: 100px;
+    font-size: 2rem;
+    width: 50%;
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #30F7AE;
+}
+.sub-title{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-80%);
+    font-size: 1.5rem;  
+    text-align: center;
+    width: 100%;
+}
+.pricedown-badge{
+    position: relative;
+     position: absolute;
+    top: 3%;
+    right: 0%;
+    transform: translate(-0%,-3%);
+    width: 145px;
+    height: 145px;
+    border-radius:50%;
+    background-color: #FFFF04;
+    text-align: center;
+    z-index: 200;
+}
+.pricedown{
+   position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 1.2rem;
+    font-weight: bold;
+    width: 100%; 
+    line-height: 2rem;
+}
+
+
+#section2{
+    height: 1000px;
+    position: relative;
+}
+.question{
+    top: 5%;
+    right: 8%;
+    transform: translate(-8%,-5%); 
+    width: 15%;
+    transform: rotate(30deg);
+}
+.section-title{
+    font-size: 2rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+.section2-left{
+    position:static;
+    width: 100%;
+    height: 40%;
+}
+.graph-section2{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%,-0%);
+    width: 90%;
+}
+.graph-index{
+    position: static;
+    position: absolute;
+    bottom: 0%;
+  width: 100%;
+  
+
+}
+
+.section2-right{
+    position: static;
+    width: 100%;
+    height: 45%;
+}
+.title-section2-right{
+    margin-top: 5rem;
+    font-size: 1.8rem;
+}
+.blackout-area{
+    width: 80%;
+}
+.text-in-blackout{
+    font-size: 2rem;
+}
+.image-name{
+    font-size: 2.5rem;
+}
+.blackout-index{
+    width: 100%;
+}
+
+
+
+.problem-area{
+    display : block;
+}
+.problem-inner{
+   width: 100%;
+    height: 100%;
+    margin: 4rem 0rem;
+}
+.problem-pic{
+    width: 80%;
+    height: 100%;
+    border-radius: 25px;
+}
+.problem-name{
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: black;
+    margin: 1rem 0rem 2rem;
+}
+.problem-description{
+    font-size: 1.4rem;
+    font-weight: bold;
+    color: black;
+    width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: start;
+}
+
+.lightup2{
+    position: absolute;
+    top: -8rem;
+    right: 4rem;
+    transform: translate(-8%,-4%);
+    width: 15%;
+    transform: rotate(30deg);
+}
+.pic-triangle-section4{
+    width: 15%;
+    margin-bottom: 2rem;
+}
+.solution-area{
+    position: relative;
+    width: 98%;
+    height: auto;
+    padding: 5rem 0rem 5rem;
+    background-color: #F5FAFF;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5rem;
+    text-align: center;
+    border-radius: 25px;
+}
+.inner-title{
+    font-size: 1.8rem;
+}
+  .speechbubble-section4{
+    padding: 1rem 5rem;
+    width: 45%;
+    margin-top: 3rem;
+}
+.speechbubble-section4:before {
+    margin-left: -2rem;
+    border: 20px solid transparent;
+    border-top: 30px solid #FFFF04;
+  }
+.text-speechbubble-section4{
+    font-size: 1.3rem;
+    width: 100%;
+  }
+.inner-section4{
+    width: 90%;
+    height: 50%;
+    border-radius: 5px;
+    padding: 3rem 0rem;
+    margin-top: 3rem;
+  }
+  .title-inner-section4{
+      font-size: 1.3rem;
+  }
+  .box-home-battery{
+      width: 35%;
+      border-radius: 5px;
+  }
+  .title-box-home-battery{
+      font-size: 1.2rem;
+  }
+  .box-cross{
+    width: 50px;
+    height: 50px;
+}
+.box-home-solar-panel{
+    width: 35%;
+    border-radius: 5px;
+}
+.title-box-home-solar-panel{
+    font-size: 1.2rem;
+}
+.bottom-text-section4{
+    font-size: 1.3rem;
+}
+
+#cv-area{
+    position: relative;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+}
+.pic-cv-area{
+    width: 100%;
+    height: 100%;
+}
+.title-cv-area{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%,-10%);
+    font-size: 1.3rem;
+    width: 100%;
+    font-weight: bold;
+    color: #ffffff;
+}
+.btn-cv{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 75%;
+    transform: translate(-50%,-40%);
+    padding: 1.3rem 0rem;
+    border-radius: 100px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #30F7AE;
+}
+.text-tel{
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%,-65%);
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #ffffff;
+}
+.btn-tel{
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%,-85%);
+    width: 75%;
+    padding: 1.3rem 0rem;
+    border-radius: 100px;
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #2E87FF;  
+}
+
+.speechbubble-section5{
+    height: 6rem;
+  }
+  .speechbubble-section5:before {
+    border: 40px solid transparent;
+    border-top: 60px solid ;
+  }
+  .text-speechbubble-section5{
+    font-size: 1.8rem;
+  }
+
+
+  #section5{
+    margin-top: 10rem;
+}
+  .merit{
+    position: relative;
+    width: 85%;
+    height: 230px;
+    text-align: left;
+    background-color: #F5FAFF;
+    margin-bottom: 40rem;
+  }
+  .merit-left-sp{
+    margin-left: 15%;
+  }
+  
+  .merit-number{
+    position: absolute;
+    top: -4rem;
+    left: 0;
+    transform: translate(-0%,-4%);
+    font-size: 3.5rem;
+}
+  .merit-content-right{
+    position: relative;
+    width: calc(100% + 20%);
+    height: 100%;
+    float:none;
+    position: absolute;
+    bottom: -70%;
+    left: 50%;
+    transform: translate(-50%,70%);
+}
+.merit-content-right span{
+   margin-left:10%;
+    width: 80%;
+    height: 100%;
+   }
+   .merit-text{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.merit-content-left{
+    position: relative;
+    width: calc(100% + 20%);
+    height: 100%;
+    float:none;
+    position: absolute;
+    bottom: -70%;
+    right: 0%;
+    transform: translate(-0%,70%);
+}
+.merit-content-left span{
+   margin-right:10%;
+    width: 80%;
+    height: 100%;
+   }
+   .merit-text{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.quote{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(-0%,-25%);
+    width: 95%;
+    box-shadow: #555 0px 1px 5px;
+}
+.construction{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(-0%,-10%);
+    width: 95%;
+    box-shadow: #555 0px 1px 5px;
+}
+.after-follow{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(-0%,-24%);
+    width: 95%;
+}
+
+#section6{
+    padding-bottom: 8rem;
+}
+.pic-usagetimeexample-section6{
+    width: 100%;
+}
+.example-whole{
+    width: 95%;
+    margin-top: 5rem;
+}
+.example1-section6{
+    padding-bottom: 0rem; 
+}
+.title-example1-section6{
+    width: 90%;
+    border-radius: 5px;
+    font-size: 1.4rem;
+    padding: 1rem 2rem 1rem 2rem;
+}
+.text-example1{
+    padding-top: 5rem;
+}
+.example1-graph{
+    margin-top: 5rem;
+    width: 100%;
+}
+.example2-section6{
+    padding-bottom: 5rem;
+}
+.title-example2-section6{
+    width: 90%;
+    border-radius: 5px;
+    font-size: 1.4rem;
+    padding: 1rem 2rem 1rem 2rem;
+}
+.text-example2{
+    padding-top: 5rem;
+}
+.example2-graph{
+    margin-top: 5rem;
+    width: 100%;
+}
+.speechbubble-section6{
+    height: 6.5rem;
+  }
+  .speechbubble-section6:before {
+    border: 40px solid transparent;
+    border-top: 60px solid ;
+    margin-bottom: 5rem
+  }
+  .text-speechbubble-section6{
+    font-size: 1.5rem;
+  }
+
+  
+  .example-area-section7{
+    width: 97%;
+    border-radius: 10px;
+    padding: 5rem 0rem;
+}
+.pic-voice{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    transform: translate(-0%,-0%);
+    width: 15%;
+}
+.example1-home-solar-panel{
+    width: 45%;
+    border-radius: 2px;
+    margin-right: 1rem;
+}
+.example1-home-battery{
+    width: 45%;
+    border-radius: 2px;
+    margin-left: 1rem;
+}
+.title-examle-section7{
+    font-size: 1.6rem;
+}
+.voice-example-section7{
+    font-size: 1.2rem;
+    width: 90%;
+}
+.example2-home-solar-panel{
+    width: 45%;
+    border-radius: 2px;
+    margin-right: 1rem;
+}
+.example2-home-battery{
+    width: 45%;
+    border-radius: 2px;
+    margin-left: 1rem;
+}
+
+.pic-tvmark-section8{
+    width: 10%;
+}
+.pic-tv{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.youtube{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 200%;
+}
+
+
+#section9{
+    height: 1000px;
+}
+.flow{
+    width: 90%;
+    margin-top: 10rem;
+}
+.flow-number{
+    width: 50px;
+    height: 50px;
+}
+.flow-number span{
+    font-size: 2rem;
+}
+.flow-title{
+    font-size: 1.8rem;
+}
+.flow p{
+    font-size: 1.2rem;
+}
+
+.contact{
+    width: 98%;
+    height: 1000px;
+}
+.contact-mark{
+    position: absolute;
+    top: 0%;
+    right: 7%;
+    transform: translate(-7%,-0%);
+    width: 12%;
+    transform: rotate(20deg);
+}
+#userName,#email,#tell,#address{
+    width: 80%;
+    height: 45px;
+    margin-bottom: 5%;
+}
+#content{
+    width: 80%;
+    height: 250px;
+    margin-top: 10px;  
+}
+.form-btn{
+    width: 70%;
+    height: 70px;
+    border-radius: 50px;
+    border: none;  
+    font-size: 2rem;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.radio-area{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.btn-scrolltop{
+    width: 25%;
+}
+
+footer{
+    height: 300px;
+}
+.footer-left{
+   bottom: 0%;
+    left: 0%;
+    transform: translate(-0%,-0%);
+    text-align: center;
+    width: 60%;
+    height: 60%;
+}
+.company-name-footer{
+    font-size: 2.5rem;
+}
+.access-footer{
+    position: static;
+    color: #ffffff;
+    font-size: 1.4rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1rem;
+}
+.footer-contact{
+    position: static;
+    
+}
+.footer-contact{
+    position:relative;
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    transform: translate(-0%,-0%);
+    width: 100%;
+    text-align: center;
+    margin-left: 0;
+}
+.text-footer-contact{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+.copyright{
+    font-size: 1.2rem;
+}
+
+}
+
+@media (max-width: 376px){
+    .big-fontsize-section2{
+        font-size: 3.5rem;
+    }
+    .big-fontsize-section6{
+        font-size: 1.6rem;
+    }
+
+    .main-title{
+        font-size: 2.2rem;
+    }
+    .sub-title{
+        font-size: 1.3rem;  
+    }
+    .pricedown-badge{
+        width: 130px;
+        height: 130px;
+    }
+
+    .section-title{
+        font-size: 1.8rem;
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+    }
+    .title-section2-right{
+        font-size: 1.6rem;
+    }
+    .text-in-blackout{
+        font-size: 1.8rem;
+    }
+    .image-name{
+        font-size: 2.2rem;
+    }
+
+    .problem-name{
+        font-size: 1.6rem;
+    }
+    .problem-description{
+        font-size: 1.2rem;
+    }
+    
+    .inner-title{
+        font-size: 1.6rem;
+    }
+    .text-speechbubble-section5{
+        font-size: 1.6rem;
+      }
+
+      .title-cv-area{
+        font-size: 1.2rem;
+    }
+    .text-tel{
+        font-size: 1.2rem;
+    }
+
+    .text-speechbubble-section6{
+        font-size: 1.3rem;
+      }
+
+    .title-examle-section7{
+        font-size: 1.4rem;
+    }
+    .voice-example-section7{
+        font-size: 1.2rem;
+        width: 90%;
+    }
+    .flow-title{
+        font-size: 1.6rem;
+    }
+    .flow p{
+        font-size: 1.2rem;
+    }
+
+    .btn-scrolltop{
+        width: 30%;
+    }
+
+    .footer-left{
+         height: 55%;
+     }
+    .access-footer{
+        font-size: 1.4rem;
+    }
+    .text-footer-contact{
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 321px){
+    .big-fontsize-section1{
+        font-size: 3.5rem;
+    }
+    .big-fontsize-section2{
+        font-size: 3rem;
+    }
+    .big-fontsize-section6{
+        font-size: 1.6rem;
+    }
+
+    .main-title{
+        font-size: 1.7rem;
+        position: absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-40%);
+        line-height: 2.8rem;
+    }
+    .btn-cv-section1{
+        font-size: 1.4rem;
+        position: absolute;
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%,-70%);
+    }
+    .sub-title{
+        font-size: 1.2rem;  
+        position: absolute;
+        top: 95%;
+        left: 50%;
+        transform: translate(-50%,-95%);
+    }
+    .pricedown-badge{
+        width: 110px;
+        height: 110px;
+        position: absolute;
+        top: 0%;
+        right: 1%;
+        transform: translate(-1%,-0%);
+    }
+    .pricedown{
+         font-size: 1rem;
+     }
+
+     #section2{
+        position: relative;
+        width: 100%;
+        height: 820px;
+    }
+    .section-title{
+        font-size: 1.6rem;
+        margin-top: 2.5rem;
+        margin-bottom: 2.5rem;
+    }
+    .title-section2-right{
+        font-size: 1.4rem;
+    }
+    .text-in-blackout{
+        font-size: 1.6rem;
+    }
+    .image-name{
+        font-size: 2rem;
+    }
+
+
+    .problem-description{
+        font-size: 1.1rem;
+    }
+    
+    .inner-title{
+        font-size: 1.3rem;
+    }
+    .text-speechbubble-section4{
+        font-size: 1rem;
+      }
+      .title-box-home-battery{
+        font-size: 1rem;
+    }
+  .title-box-home-solar-panel{
+      font-size: 1rem;
+  }
+  .bottom-text-section4{
+    font-size: 1rem;
+}
+
+#cv-area{
+    height: 320px;
+}
+      .title-cv-area{
+        font-size: 1rem;
+    }
+    .text-tel{
+        font-size: 1rem;
+    }
+    .btn-cv{
+        font-size: 1.6rem;
+    }
+    .btn-tel{
+        font-size: 1.6rem; 
+    }
+
+    .text-speechbubble-section5{
+        font-size: 1.4rem;
+      }
+      .merit{
+        margin-bottom: 35rem;
+      }
+      .merit-title{
+        font-size: 1.6rem;
+    }
+      .merit-content-right{
+        bottom: -65%;
+        left: 50%;
+        transform: translate(-50%,65%);
+    }
+    .merit-content-left{
+        bottom: -65%;
+        right: 0%;
+        transform: translate(-0%,65%);
+    }
+     
+    .title-example1-section6{
+        font-size: 1.1rem;
+    }
+    .text-example1{
+        padding-top: 5rem;
+        font-size: 1.1rem;
+    }
+    .example2-section6{
+        font-size: 1.1rem;
+    }
+    .title-example2-section6{
+        font-size: 1.1rem;
+    }
+    .text-example2{
+        font-size: 1.1rem;
+    }
+    .text-speechbubble-section6{
+        font-size: 1.2rem;
+      }
+      
+
+    .title-examle-section7{
+        font-size: 1.3rem;
+    }
+    .voice-example-section7{
+        font-size: 1.1rem;
+    }
+    .text-tv{
+        font-size: 1.4rem;
+    }
+    .text-cm{
+        font-size: 1.4rem;
+        
+    }
+
+    .flow-title{
+        font-size: 1.4rem;
+    }
+    .flow p{
+        font-size: 1.1rem;
+    }
+    .form-btn{
+        height: 50px;
+        font-size: 1.8rem;
+    }
+
+
+
+    .footer-left{
+         height: 45%;
+     }
+     .company-name-footer{
+        font-size: 2rem;
+    }
+    .access-footer{
+        font-size: 1.2rem;
+    }
+    .text-footer-contact{
+        font-size: 1.2rem;
+    }
+    .copyright{
+        font-size: 1rem;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
